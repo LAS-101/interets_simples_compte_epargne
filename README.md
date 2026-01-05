@@ -58,12 +58,7 @@ Quand vous lancez le programme, vous verrez :
 - Python 3.6 ou plus récent (c'est tout !)
 - Aucune bibliothèque supplémentaire nécessaire
 
- Fichiers dans ce Projet
-
-- `interets_simples_compte_epargne.py` - Le programme principal
-- `DOCUMENTATION.md` - Guide détaillé avec formules et exemples
-- `README.md` - Ce fichier
-
+  
  Besoin d'Aide ?
 
 Si le programme ne fonctionne pas :
